@@ -4,4 +4,4 @@
 
 <p><em>Nossa missao e: <strong> "Proporcionar auto-estima e qualidade de vida aos clientes"</strong>.</em></p>
 
-<p>Oferecemos profissionais experientes e antenados às mudancas no mundo da moda. O atendimento possui padrao de excelencia e agilidade, garantindo qualidade e satisfacao dos nossos clientes.</p>
+<p>Oferecemos profissionais experientes e antenados as mudancas no mundo da moda. O atendimento possui padrao de excelencia e agilidade, garantindo qualidade e satisfacao dos nossos clientes.</p>
